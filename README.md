@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou o Arthur
 
-<!--
-**Arthur-Hirata/Arthur-Hirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estuadante de Engenharia de Produção com Ênfase em software e atualmente em busca de um estágio
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Linguagens e ferramentas
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badg&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScipt-F7D1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badges&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#
+
+
+
