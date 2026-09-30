@@ -7,6 +7,17 @@
 <br/>
 <div align="center">
 
+<a href="https://www.linkedin.com/in/arthur-duarte-hirata/">
+  <img src="https://img.shields.io/badge/LinkedIn-Arthur_Hirata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://SEU-SITE.com](https://arthur-hirata.vercel.app/)">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_site-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+</a>
+
+</div>
+<br/>
+<div align="center">
+
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Arthur-Hirata&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arthur-Hirata&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas"/>
 
@@ -87,11 +98,10 @@ API simples criada para estudar e testar o funcionamento de *Rate Limiting* base
 
 ---
 
----
 
 ## 📫 Vamos conversar?
 
-O melhor jeito de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/arthur-duarte-hirata/) e você pode ver meus trabalhos no [meu portfólio](https://SEU-SITE.com).
+O melhor jeito de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/arthur-duarte-hirata/) e você pode ver meus trabalhos no [meu portfólio](https://arthur-hirata.vercel.app/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:36BCF7,100:0A66C2" width="100%" alt=""/>
 
