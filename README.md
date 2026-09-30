@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/arthur-duarte-hirata/">
   <img src="https://img.shields.io/badge/LinkedIn-Arthur_Hirata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://SEU-SITE.com](https://arthur-hirata.vercel.app/)">
+<a href="https://arthur-hirata.vercel.app/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_site-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
 </a>
 
